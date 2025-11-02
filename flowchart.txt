@@ -1,0 +1,15 @@
+Start
+ ↓
+Input athlete name, sport, and best time
+ ↓
+Display current record
+ ↓
+Enter new performance time
+ ↓
+Is new time < best time?
+      ↓Yes → Update record
+      ↓No  → Keep previous record
+ ↓
+Display updated result
+ ↓
+End
