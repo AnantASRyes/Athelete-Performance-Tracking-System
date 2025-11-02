@@ -1,0 +1,23 @@
+--- Athlete Performance Tracking System ---
+
+Athlete: John
+Average Speed: 8.5 m/s
+Time: 50 sec
+Distance: 425 m
+
+Athlete: Alex
+Average Speed: 9.2 m/s
+Time: 48 sec
+Distance: 441.6 m
+
+Athlete: Maria
+Average Speed: 8.8 m/s
+Time: 49 sec
+Distance: 431.2 m
+
+Athlete: Anant
+Average Speed: 9.5 m/s
+Time: 47 sec
+Distance: 446.5 m
+
+--- End of Report ---
