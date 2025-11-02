@@ -1,0 +1,22 @@
+ATHLETE PERFORMANCE TRACKING SYSTEM - DOCUMENTATION
+
+Overview:
+This project is designed to track, analyze, and improve athlete performance using simple Python scripts and structured data.
+
+Files Included:
+1. main.py          → Runs the project
+2. analysis.py      → Contains analysis logic
+3. dataset.csv      → Sample data of athlete performance
+4. output.txt       → Generated analysis output
+5. README.md        → Project description
+6. documentation.txt → Technical documentation of the system
+
+Working:
+- The system reads data from dataset.csv
+- Analysis is performed using analysis.py
+- The final output is displayed and saved in output.txt
+
+Future Scope:
+- Integrate machine learning models
+- Add a web dashboard for coaches
+- Enable real-time performance tracking
