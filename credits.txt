@@ -1,0 +1,14 @@
+CREDITS & ACKNOWLEDGMENT
+
+Project: Athlete Performance Tracking System
+Developer: Anant Veer
+Language Used: Python
+Tools: GitHub, CSV, Python Libraries
+
+Special Thanks:
+- To mentors and guides who provided direction during the project.
+- To OpenAI’s ChatGPT for helping with structure and explanations.
+- To all athletes whose data inspired this project.
+
+Date: November 2025
+Version: 1.0
